@@ -27,23 +27,30 @@
 ## 三、项目主要技术
 ### 1.前端技术
 ◇[Vue.js](https://cn.vuejs.org/index.html)：是一套用于构建用户界面的渐进式JavaScript框架。 与其它大型框架不同的是，Vue 被设计为可以自底向上逐层应用。Vue 的核心库只关注视图层，不仅易于上手，还便于与第三方库或既有项目整合。另一方面，当与现代化的工具链以及各种支持类库结合使用时，Vue 也完全能够为复杂的单页应用（[SPA](https://baike.baidu.com/item/SPA/17536313)）提供驱动。
+
 ◇[Element-ui](https://element.eleme.cn/#/zh-CN)：网站快速成型工具，一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库。
+
 ◇[Nuxt.js](https://www.nuxtjs.cn/)：基于 Vue.js 的轻量级应用框架,可用来创建服务端渲染 (SSR) 应用,也可充当静态站点引擎生成静态站点应用,具有优雅的代码结构分层和热加载等特性。
 ### 2.后端技术
 #### 2.1 开发框架
 ◇[SpringBoot](https://start.spring.io/)：简化spring的搭建和开发过程的全新框架。
+
 ◇[MyBatis-Plus](https://baomidou.com/)：一个[MyBatis](https://mybatis.org/mybatis-3/)的增强工具，在 MyBatis 的基础上只做增强不做改变，为简化开发、提高效率而生。
 #### 2.2 数据库
 ◇[MongoDB](https://www.mongodb.com/)：一个跨平台的，面向文档的数据库，是当前 NoSQL 数据库产品中最热门的一种。
+
 ◇[MySQL](https://www.mysql.com/)：关系型数据库。
 
 ◇[Redis](https://redis.io/)：一个基于内存的高性能key-value数据库。
 #### 2.3 SpringCloud微服务
 ◇[Nacos](https://nacos.io/zh-cn/docs/quick-start.html)：使用 Nacos 简化服务发现、配置管理、服务治理及管理的解决方案，让微服务的发现、管理、共享、组合更加容易。
+
 ◇[Gateway](https://spring.io/projects/spring-cloud-gateway)：为微服务架构提供一种简单而有效的统一的API路由管理方式。
+
 ◇[Feign](https://spring.io/projects/spring-cloud-openfeign)：一个声明式的Web服务客户端，使用Feign可使得Web服务客户端的写入更加方便。
 #### 2.4 其他
 ◇消息中间件[RabbitMQ](https://www.rabbitmq.com/)：一个开源的AMQP实现，服务器端用Erlang语言编写，支持多种客户端，如：Python、Ruby、.NET、Java、JMS、C、PHP、ActionScript、XMPP、STOMP等，支持AJAX。用于在分布式系统中存储转发消息，在易用性、扩展性、高可用性等方面表现不俗。
+
 ◇Api接口文档工具[Swagger](https://swagger.io/)：一款RESTFUL接口的文档在线自动生成+功能测试功能软件。
 ## 四、项目主要功能
 ### 1.用户模块
