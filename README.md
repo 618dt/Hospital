@@ -27,4 +27,4 @@
 # 业务流程
 ![image](https://user-images.githubusercontent.com/62464956/110754494-dc668e00-8282-11eb-8796-bafe40e99330.png)
 # 服务架构
-![image.png](README/1645796126400-bcfa17df-bfea-49c0-a3e3-e8fd342ebdc8.png)
+![image.png](https://cdn.nlark.com/yuque/0/2022/png/21429457/1645796126400-bcfa17df-bfea-49c0-a3e3-e8fd342ebdc8.png)
