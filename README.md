@@ -36,6 +36,7 @@
 #### 2.2 数据库
 ◇[MongoDB](https://www.mongodb.com/)：一个跨平台的，面向文档的数据库，是当前 NoSQL 数据库产品中最热门的一种。
 ◇[MySQL](https://www.mysql.com/)：关系型数据库。
+
 ◇[Redis](https://redis.io/)：一个基于内存的高性能key-value数据库。
 #### 2.3 SpringCloud微服务
 ◇[Nacos](https://nacos.io/zh-cn/docs/quick-start.html)：使用 Nacos 简化服务发现、配置管理、服务治理及管理的解决方案，让微服务的发现、管理、共享、组合更加容易。
